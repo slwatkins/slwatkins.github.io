@@ -30,7 +30,7 @@ University of California, Berkeley, Department of Physics
  - Creator and maintainer of QETpy and RQpy Python packages
 
 2015 - 2016, *PNI Sensor Corporation*, Santa Rosa, California
- - Physicsist and algorithm engineer, working primarily in MATLAB
+ - Physicist and algorithm engineer, working primarily in MATLAB
  - Applied Kalman filtering and other sensor fusion techniques to combine cell phone data for navigation purposes
  - Interfaced with the Android API for extraction of raw sensor data for further analysis
 
