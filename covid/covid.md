@@ -44,3 +44,9 @@ Below, we show the daily new cases over time for each of the 9 Bay Area counties
 Below, we show the daily new cases over the last month for each of the 9 Bay Area counties.
 
 ![County Daily, Recent](https://raw.githubusercontent.com/slwatkins/covid/master/.github/current_county_new_cases_month.png)
+
+## Interactive Plots
+
+{% include_relative total_cases_by_county.html %}
+
+{% include_relative daily_cases_by_county.html %}
