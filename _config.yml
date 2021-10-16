@@ -34,7 +34,7 @@ plugins:
 
 header_pages:
   - about.md
-  - CV/cv.md
+  - cv/cv.md
   - covid/covid.md
  
 # Exclude from processing.
