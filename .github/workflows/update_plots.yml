@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Remake plots for README
+name: Remake COVID HTML code
 
 # Controls when the action will run. 
 on:
@@ -10,16 +10,20 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
-  create-plots:
+  create-html:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Checkout COVID data repo
+        uses: actions/checkout@v2
         with:
           repository: slwatkins/covid
           submodules: 'recursive'
+          path: covid_code
 
       - name: Set up Python 3.7
         uses: actions/setup-python@v2
@@ -29,9 +33,9 @@ jobs:
       # Runs a single command using the runners shell
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          pip install -r covid_code/requirements.txt
           pip install plotly
-          pip install .
+          pip install ./covid_code
       - name: Update plots
         run: |
           python .github/update_html.py
