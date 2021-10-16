@@ -136,3 +136,6 @@ dmypy.json
 
 # autosaved txt files
 *.*~
+
+# ignore created covid_code repo
+covid_code/
