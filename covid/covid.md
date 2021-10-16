@@ -8,7 +8,7 @@ permalink: /covid/
 
 ![](https://img.shields.io/badge/dynamic/yaml?color=informational&label=Plots%20Last%20Updated&query=date&url=https%3A%2F%2Fraw.githubusercontent.com%2Fslwatkins%2Fcovid%2Fmaster%2F.github%2Fdate_last_updated.yml)
 
-This page is a mirror of the `README` in the [slwatkins/covid]() GitHub repository. The repo was intended for simple plotting and analyzing COVID-19 cases/deaths, with a focus on the San Francisco Bay Area. The data in the plots below are from the [John Hopkins University dataset](https://github.com/CSSEGISandData/COVID-19). The plots below are easily reproducible using the Python code in the repo (which has been organized as an installable package). The package also has useful functions for reading in the COVID-19 data from both the JHU and [NY Times](https://github.com/nytimes/covid-19-data) datasets.
+This page is a mirror of the `README` in the [slwatkins/covid](https://github.com/slwatkins/covid) GitHub repository. The repo was intended for simple plotting and analyzing COVID-19 cases/deaths, with a focus on the San Francisco Bay Area. The data in the plots below are from the [John Hopkins University dataset](https://github.com/CSSEGISandData/COVID-19). The plots below are easily reproducible using the Python code in the repo (which has been organized as an installable package). The package also has useful functions for reading in the COVID-19 data from both the JHU and [NY Times](https://github.com/nytimes/covid-19-data) datasets.
 
 The Bay Area counties included are:
  * Alameda
@@ -20,8 +20,23 @@ The Bay Area counties included are:
  * Santa Clara
  * Solano
  * Sonoma
+ 
+## Interactive Plots of Current Bay Area Cases
 
-## Current Bay Area Numbers
+Below, we show the cumulative cases over time for each of the 9 Bay Area counties.
+
+Click [**here**](./total_cases_by_county.html) to open the plot directly.
+
+{% include_relative total_cases_by_county.html %}
+
+Below, we show the daily new cases for each of the 9 Bay Area counties.
+
+Click [**here**](./daily_cases_by_county.html) to open the plot directly.
+
+{% include_relative daily_cases_by_county.html %}
+
+
+## Current Bay Area Numbers (Combined)
 
 Below, we show the total, cumulative cases (and deaths) over time for the combined 9 Bay Area counties.
 
