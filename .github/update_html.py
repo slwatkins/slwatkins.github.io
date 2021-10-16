@@ -89,7 +89,6 @@ fig.update_layout(
     sliders=sliders,
     legend_title={'text': 'County'},
     template='none',
-    height=650,
 )
 
 fig.update_xaxes(
@@ -106,5 +105,5 @@ fig.update_yaxes(
     title='New Cases per Day',
 )
 
-fig.write_html('covid/total_cases_by_county.html')
+fig.write_html('covid/daily_cases_by_county.html')
 
