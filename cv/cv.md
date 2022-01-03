@@ -24,10 +24,10 @@ University of California, Berkeley, Department of Physics
 
 2017 - Present, *University of California, Berkeley*, Department of Physics
  - Graduate Student Researcher under Assistant Professor Matt C. Pyle
- - Member of SuperCDMS and SPICE/HeRALD Collaborations
- - Executing light dark matter search analyses
+ - Member of SuperCDMS and SPICE/HeRALD dark matter detection collaborations
+ - Executing light dark matter search analyses from raw data to exclusion limits
  - Performing low-temperature detector R&D in a state-of-the-art dilution refrigerator
- - Creator and maintainer of QETpy and RQpy Python packages
+ - Creator and maintainer of [QETpy](https://github.com/ucbpylegroup/QETpy) and [RQpy](https://github.com/ucbpylegroup/RQpy) Python packages
 
 2015 - 2016, *PNI Sensor Corporation*, Santa Rosa, California
  - Physicist and algorithm engineer, working primarily in MATLAB
