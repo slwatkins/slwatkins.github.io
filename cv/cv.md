@@ -64,7 +64,7 @@ University of California, Berkeley, Department of Physics
 
 #### Other Publications
 
- - A. Biekert, et al. (SPICE/HeRALD Collaboration) , "Scintillation yield from electronic and nuclear recoils in superfluid He-4" (2021), [arXiv:2108.02176](https://arxiv.org/abs/2108.02176) [physics.ins-det]
+ - A. Biekert, et al. (SPICE/HeRALD Collaboration), "Scintillation yield from electronic and nuclear recoils in superfluid He-4" (2021), [arXiv:2108.02176](https://arxiv.org/abs/2108.02176) [physics.ins-det]
  - I. Alkhatib, et al. (SuperCDMS Collaboration), "Constraints on Lightly Ionizing Particles from CDMSlite", [Phys. Rev. Lett. 127, 081802 (2021)](https://doi.org/10.1103/PhysRevLett.127.081802)
  - D. W. Amaral, et al. (SuperCDMS Collaboration), "Constraints on low-mass, relic dark matter candidates from a surface-operated SuperCDMS single-charge sensitive detector", [Phys. Rev. D 102, 091101(R)](https://doi.org/10.1103/PhysRevD.102.091101)
  - T. Aralis, et al. (SuperCDMS Collaboration), "Constraints on dark photons and axionlike particles from the SuperCDMS Soudan experiment", [Phys. Rev. D 101, 052008 (2020)](https://doi.org/10.1103/PhysRevD.101.052008)
