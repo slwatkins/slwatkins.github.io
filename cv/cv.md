@@ -6,7 +6,7 @@ permalink: /cv/
 
 ## Samuel L. Watkins
 University of California, Berkeley, Department of Physics  
-[samwatkins@berkeley.edu](samwatkins@berkeley.edu)
+[samwatkins@berkeley.edu](mailto:samwatkins@berkeley.edu)
 
 ### Education
 
