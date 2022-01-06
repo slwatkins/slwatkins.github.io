@@ -25,14 +25,16 @@ University of California, Berkeley, Department of Physics
 2017 - Present, *University of California, Berkeley*, Department of Physics
  - Graduate Student Researcher under Assistant Professor Matt C. Pyle
  - Member of SuperCDMS and SPICE/HeRALD dark matter detection collaborations
- - Executing light dark matter search analyses from raw data to exclusion limits
- - Performing low-temperature detector R&D in a state-of-the-art dilution refrigerator
- - Creator and maintainer of [QETpy](https://github.com/ucbpylegroup/QETpy) and [RQpy](https://github.com/ucbpylegroup/RQpy) Python packages
+ - Performed low-temperature detector R&D in a state-of-the-art dilution refrigerator, from installation of ultra-sensitive Transition-Edge Sensor (TES) based detectors, setup and readout via SQUIDs, to design and implementation of a passive vibration isolation system to reduce noise from pulse-tube cryocooler vibrations
+ - Executed a complex and novel light dark matter search analysis (SuperCDMS-CPD DM Search) taking raw data, extracting relevant features, and achieving a world-leading cryogenic dark matter exclusion limit, created a substantial majority of the Python analysis code from scratch, and successfully wrote an academic paper that was accepted by Physical Review Letters and spawned vigorous scientific interest in the community
+ - Creator and maintainer of [QETpy](https://github.com/ucbpylegroup/QETpy) and [RQpy](https://github.com/ucbpylegroup/RQpy) open-source Python packages, which have become pivotal tools for our group and scientific collaborators
+ - Organized and chaired meetings to develop statistical tools and methods for developing reusable and easily readable tools and providing guidance for collaborators on applicability of statistical techniques
 
 2015 - 2016, *PNI Sensor Corporation*, Santa Rosa, California
  - Physicist and algorithm engineer, working primarily in MATLAB
- - Applied Kalman filtering and other sensor fusion techniques to combine cell phone data for navigation purposes
- - Interfaced with the Android API for extraction of raw sensor data for further analysis
+ - Created algorithms to leverage data from onboard phone sensors and GPS in order to provide real time navigation in scenarios of intermittent GPS outages and general improvement upon current location
+ - Spearheaded Kalman filter-based algorithms using pedestrian dead reckoning data and trilateration of multiple stationary radio-frequency beacons to provide real time indoor locating and performed live tests of the system for potential investors
+ - Interfaced with the Android API to extract raw sensor data from smartphones and discerned which data were of importance for various applications of sensor fusion algorithms
 
 ### Talks
 
@@ -47,7 +49,23 @@ University of California, Berkeley, Department of Physics
 *R&D for Light Mass Dark Matter Searches with SuperCDMS*
  - July 22, 2019, [18th International Workshop on Low Temperature Detectors](https://www.ltd18.unimib.it/), Milano, Italia
  - Samuel L. Watkins, on behalf of the SuperCDMS Collaboration
- 
+
+### Teaching and Mentoring
+
+2021 - Present, *University of California, Berkeley*, Department of Physics 
+ - Mentored undergraduate Deborah Lin as part of lab project
+ - Design and implementation of a passive vibration isolation system for a cryogen-free dilution refrigerator
+
+2020, *University of California, Berkeley*, Department of Physics 
+ - Mentored Aaron Elersich in undergraduate research project
+ - Design of an X-ray calibration source taking advantage of Al fluorescence
+
+2016 - 2017, *University of California, Berkeley*, Department of Physics
+ - Graduate Student Instructor for introductory physics
+ - Prepared for and taught sections of 20 undergraduate students in physics for 4 two-hour sessions a week while managing graduate student classes and research
+ - Communicated abstract concepts to beginner students to prepare them for a physics or engineering undergraduate degree
+ - Designed and implemented grading rubrics for tens of midterm and final exam problems to fairly determine students' understanding of complex subjects
+
 ### Publications
 
 #### Corresponding Author
