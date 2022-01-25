@@ -27,7 +27,7 @@ University of California, Berkeley, Department of Physics
  - Member of SuperCDMS and SPICE/HeRALD dark matter detection collaborations
  - Performed low-temperature detector R&D in a state-of-the-art dilution refrigerator, from installation of ultra-sensitive Transition-Edge Sensor (TES) based detectors, setup and readout via SQUIDs, to design and implementation of a passive vibration isolation system to reduce noise from pulse-tube cryocooler vibrations
  - Executed a complex and novel light dark matter search analysis (SuperCDMS-CPD DM Search) taking raw data, extracting relevant features, and achieving a world-leading cryogenic dark matter exclusion limit, created a substantial majority of the Python analysis code from scratch, and successfully wrote an academic paper that was accepted by Physical Review Letters and spawned vigorous scientific interest in the community
- - Creator and maintainer of [QETpy](https://github.com/ucbpylegroup/QETpy) and [RQpy](https://github.com/ucbpylegroup/RQpy) open-source Python packages, which have become pivotal tools for our group and scientific collaborators
+ - Creator and maintainer of [QETpy](https://github.com/ucbpylegroup/QETpy), [`detprocess`](https://github.com/slwatkins/detprocess), and [DarkLim](https://github.com/slwatkins/darklim) open-source Python packages, which have become pivotal tools for our group and scientific collaborators
  - Organized and chaired meetings to develop statistical tools and methods for developing reusable and easily readable tools and providing guidance for collaborators on applicability of statistical techniques
 
 2015 - 2016, *PNI Sensor Corporation*, Santa Rosa, California
@@ -50,7 +50,7 @@ University of California, Berkeley, Department of Physics
  - July 22, 2019, [18th International Workshop on Low Temperature Detectors](https://www.ltd18.unimib.it/), Milano, Italia
  - Samuel L. Watkins, on behalf of the SuperCDMS Collaboration
 
-### Teaching and Mentoring
+### Teaching, Mentoring, and Outreach
 
 2021 - Present, *University of California, Berkeley*, Department of Physics 
  - Mentored undergraduate Deborah Lin as part of lab project
@@ -59,6 +59,12 @@ University of California, Berkeley, Department of Physics
 2020, *University of California, Berkeley*, Department of Physics 
  - Mentored Aaron Elersich in undergraduate research project
  - Design of an X-ray calibration source taking advantage of Al fluorescence
+
+2019 - 2021, *SuperCDMS Collaboration*, Graduate Student and Postdoc Organization
+ - Served as one of four representatives of the graduate students and postdocs in the SuperCDMS Collaboration
+ - Gave voice to the graduate students' and postdocs' thoughts and concerns to the SuperCDMS council
+ - Periodically sent out polls to the entire organization and summarized/proposed actions based on the contents
+ - Created an always-available anonymous form for any type of feedback for the representatives to act on
 
 2016 - 2017, *University of California, Berkeley*, Department of Physics
  - Graduate Student Instructor for introductory physics
