@@ -88,6 +88,7 @@ University of California, Berkeley, Department of Physics
 
 #### Other Publications
 
+ - A. Biekert _et al._ (SPICE/HeRALD Collaboration), "A backing detector for order-keV neutrons" (2022), [arXiv:2203.04896](https://arxiv.org/abs/2203.04896) [physics.ins-det]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "A Search for Low-mass Dark Matter via Bremsstrahlung Radiation and the Migdal Effect in SuperCDMS" (2022), [arXiv:2203.02594](https://arxiv.org/abs/2203.02594) [hep-ex]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Ionization yield measurement in a germanium CDMSlite detector using photo-neutron sources" (2022), [arXiv:2202.07043](https://arxiv.org/abs/2202.07043) [physics.ins-det]
  - P. Adari _et al._, "EXCESS workshop: Descriptions of rising low-energy spectra" (2022), [arXiv:2202.05097](https://arxiv.org/abs/2202.05097) [astro-ph.IM]
