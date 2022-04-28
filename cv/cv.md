@@ -88,6 +88,7 @@ University of California, Berkeley, Department of Physics
 
 #### Other Publications
 
+ - J. S. Wilson _et al._, "The level-1 trigger for the SuperCDMS experiment at SNOLAB" (2022), [arXiv:2204.13002](https://arxiv.org/abs/2204.13002) [physics.ins-det]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Investigating the sources of low-energy events in a SuperCDMS-HVeV detector" (2022), [arXiv:2204.08038](https://arxiv.org/abs/2204.08038) [hep-ex]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "A Strategy for Low-Mass Dark Matter Searches with Cryogenic Detectors in the SuperCDMS SNOLAB Facility" (2022), [arXiv:2203.08463](https://arxiv.org/abs/2203.08463) [physics.ins-det]
  - A. Biekert _et al._ (SPICE/HeRALD Collaboration), "A backing detector for order-keV neutrons" (2022), [arXiv:2203.04896](https://arxiv.org/abs/2203.04896) [physics.ins-det]
