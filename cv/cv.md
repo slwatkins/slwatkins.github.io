@@ -27,7 +27,7 @@ University of California, Berkeley, Department of Physics
  - Member of SuperCDMS and SPICE/HeRALD dark matter detection collaborations
  - Performed low-temperature detector R&D in a state-of-the-art dilution refrigerator, from installation of ultra-sensitive Transition-Edge Sensor (TES) based detectors, setup and readout via SQUIDs, to design and implementation of a passive vibration isolation system to reduce noise from pulse-tube cryocooler vibrations
  - Executed a complex and novel light dark matter search analysis (SuperCDMS-CPD DM Search) taking raw data, extracting relevant features, and achieving a world-leading cryogenic dark matter exclusion limit, created a substantial majority of the Python analysis code from scratch, and successfully wrote an academic paper that was accepted by Physical Review Letters and spawned vigorous scientific interest in the community
- - Creator and maintainer of [QETpy](https://github.com/ucbpylegroup/QETpy), [`detprocess`](https://github.com/slwatkins/detprocess), and [DarkLim](https://github.com/slwatkins/darklim) open-source Python packages, which have become pivotal tools for our group and scientific collaborators
+ - Creator and maintainer of [QETpy](https://github.com/spice-herald/QETpy), [`detprocess`](https://github.com/spice-herald/detprocess), and [DarkLim](https://github.com/spice-herald/darklim) open-source Python packages, which have become pivotal tools for our group and scientific collaborators
  - Organized and chaired meetings to develop statistical tools and methods for developing reusable and easily readable tools and providing guidance for collaborators on applicability of statistical techniques
 
 2015 - 2016, *PNI Sensor Corporation*, Santa Rosa, California
