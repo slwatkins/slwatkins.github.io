@@ -98,6 +98,8 @@ University of California, Berkeley, Department of Physics
  - R. Agnese _et al._ (SuperCDMS Collaboration), "First Dark Matter Constraints from a SuperCDMS Single-Charge Sensitive Detector", [Phys. Rev. Lett. 121, 051301 (2018)](https://doi.org/10.1103/PhysRevLett.121.051301)
 
 #### Preprints
+
+ - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Effective Field Theory Analysis of CDMSlite Run 2 Data" (2022), [arXiv:2205.11683](https://arxiv.org/abs/2205.11683) [astro-ph.CO]
  - J. S. Wilson _et al._, "The level-1 trigger for the SuperCDMS experiment at SNOLAB" (2022), [arXiv:2204.13002](https://arxiv.org/abs/2204.13002) [physics.ins-det]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Investigating the sources of low-energy events in a SuperCDMS-HVeV detector" (2022), [arXiv:2204.08038](https://arxiv.org/abs/2204.08038) [hep-ex]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "A Strategy for Low-Mass Dark Matter Searches with Cryogenic Detectors in the SuperCDMS SNOLAB Facility" (2022), [arXiv:2203.08463](https://arxiv.org/abs/2203.08463) [physics.ins-det]
