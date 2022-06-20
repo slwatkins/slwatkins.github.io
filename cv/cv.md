@@ -88,9 +88,10 @@ University of California, Berkeley, Department of Physics
 
 #### Other Publications
 
+ - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Ionization yield measurement in a germanium CDMSlite detector using photo-neutron sources", [Phys. Rev. D 105, 122002 (2022)](https://doi.org/10.1103/PhysRevD.105.122002)
  - A. Biekert _et al._ (SPICE/HeRALD Collaboration), "Scintillation yield from electronic and nuclear recoils in superfluid He-4", [Phys. Rev. D 105, 092005 (2022)](https://doi.org/10.1103/PhysRevD.105.092005)
  - I. Alkhatib _et al._ (SuperCDMS Collaboration), "Constraints on Lightly Ionizing Particles from CDMSlite", [Phys. Rev. Lett. 127, 081802 (2021)](https://doi.org/10.1103/PhysRevLett.127.081802)
- - D. W. Amaral _et al._ (SuperCDMS Collaboration), "Constraints on low-mass, relic dark matter candidates from a surface-operated SuperCDMS single-charge sensitive detector", [Phys. Rev. D 102, 091101(R)](https://doi.org/10.1103/PhysRevD.102.091101)
+ - D. W. Amaral _et al._ (SuperCDMS Collaboration), "Constraints on low-mass, relic dark matter candidates from a surface-operated SuperCDMS single-charge sensitive detector", [Phys. Rev. D 102, 091101(R) (2020)](https://doi.org/10.1103/PhysRevD.102.091101)
  - T. Aralis _et al._ (SuperCDMS Collaboration), "Constraints on dark photons and axionlike particles from the SuperCDMS Soudan experiment", [Phys. Rev. D 101, 052008 (2020)](https://doi.org/10.1103/PhysRevD.101.052008)
  - R. Agnese _et al._ (SuperCDMS Collaboration), "Search for low-mass dark matter with CDMSlite using a profile likelihood fit", [Phys. Rev. D 99, 062001 (2019)](https://doi.org/10.1103/PhysRevD.99.062001)
  - R. Agnese _et al._ (SuperCDMS Collaboration), "Production Rate Measurement of Tritium and Other Cosmogenic Isotopes in Germanium with CDMSlite", [Astropart. Phys. 104, 1-12 (2019)](https://doi.org/10.1016/j.astropartphys.2018.08.006)
@@ -105,5 +106,4 @@ University of California, Berkeley, Department of Physics
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "A Strategy for Low-Mass Dark Matter Searches with Cryogenic Detectors in the SuperCDMS SNOLAB Facility" (2022), [arXiv:2203.08463](https://arxiv.org/abs/2203.08463) [physics.ins-det]
  - A. Biekert _et al._ (SPICE/HeRALD Collaboration), "A backing detector for order-keV neutrons" (2022), [arXiv:2203.04896](https://arxiv.org/abs/2203.04896) [physics.ins-det]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "A Search for Low-mass Dark Matter via Bremsstrahlung Radiation and the Migdal Effect in SuperCDMS" (2022), [arXiv:2203.02594](https://arxiv.org/abs/2203.02594) [hep-ex]
- - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Ionization yield measurement in a germanium CDMSlite detector using photo-neutron sources" (2022), [arXiv:2202.07043](https://arxiv.org/abs/2202.07043) [physics.ins-det]
  - P. Adari _et al._, "EXCESS workshop: Descriptions of rising low-energy spectra" (2022), [arXiv:2202.05097](https://arxiv.org/abs/2202.05097) [astro-ph.IM]
