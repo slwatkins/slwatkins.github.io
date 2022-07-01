@@ -88,6 +88,7 @@ University of California, Berkeley, Department of Physics
 
 #### Other Publications
 
+ - A. Biekert _et al._ (SPICE/HeRALD Collaboration), "A backing detector for order-keV neutrons", [Nucl. Instrum. Methods Phys. Res. A 1039, 166981 (2022)](https://doi.org/10.1016/j.nima.2022.166981)
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Ionization yield measurement in a germanium CDMSlite detector using photo-neutron sources", [Phys. Rev. D 105, 122002 (2022)](https://doi.org/10.1103/PhysRevD.105.122002)
  - A. Biekert _et al._ (SPICE/HeRALD Collaboration), "Scintillation yield from electronic and nuclear recoils in superfluid He-4", [Phys. Rev. D 105, 092005 (2022)](https://doi.org/10.1103/PhysRevD.105.092005)
  - I. Alkhatib _et al._ (SuperCDMS Collaboration), "Constraints on Lightly Ionizing Particles from CDMSlite", [Phys. Rev. Lett. 127, 081802 (2021)](https://doi.org/10.1103/PhysRevLett.127.081802)
@@ -104,6 +105,5 @@ University of California, Berkeley, Department of Physics
  - J. S. Wilson _et al._, "The level-1 trigger for the SuperCDMS experiment at SNOLAB" (2022), [arXiv:2204.13002](https://arxiv.org/abs/2204.13002) [physics.ins-det]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Investigating the sources of low-energy events in a SuperCDMS-HVeV detector" (2022), [arXiv:2204.08038](https://arxiv.org/abs/2204.08038) [hep-ex]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "A Strategy for Low-Mass Dark Matter Searches with Cryogenic Detectors in the SuperCDMS SNOLAB Facility" (2022), [arXiv:2203.08463](https://arxiv.org/abs/2203.08463) [physics.ins-det]
- - A. Biekert _et al._ (SPICE/HeRALD Collaboration), "A backing detector for order-keV neutrons" (2022), [arXiv:2203.04896](https://arxiv.org/abs/2203.04896) [physics.ins-det]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "A Search for Low-mass Dark Matter via Bremsstrahlung Radiation and the Migdal Effect in SuperCDMS" (2022), [arXiv:2203.02594](https://arxiv.org/abs/2203.02594) [hep-ex]
  - P. Adari _et al._, "EXCESS workshop: Descriptions of rising low-energy spectra" (2022), [arXiv:2202.05097](https://arxiv.org/abs/2202.05097) [astro-ph.IM]
