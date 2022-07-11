@@ -10,8 +10,9 @@ University of California, Berkeley, Department of Physics
 
 ### Education
 
-2016 - Present, *University of California, Berkeley*
+2016 - 2022, *University of California, Berkeley*
  - Ph.D. Candidate - Department of Physics
+ - Thesis: [Athermal Phonon Sensors in Searches for Light Dark Matter](https://slwatkins.com/cv/watkins_thesis.pdf)
  
 2016 - 2018, *University of California, Berkeley*
  - M.A. - Department of Physics
@@ -22,7 +23,7 @@ University of California, Berkeley, Department of Physics
 
 ### Research and Work Experience
 
-2017 - Present, *University of California, Berkeley*, Department of Physics
+2017 - 2022, *University of California, Berkeley*, Department of Physics
  - Graduate Student Researcher under Assistant Professor Matt C. Pyle
  - Member of SuperCDMS and SPICE/HeRALD dark matter detection collaborations
  - Performed low-temperature detector R&D in a state-of-the-art dilution refrigerator, from installation of ultra-sensitive Transition-Edge Sensor (TES) based detectors, setup and readout via SQUIDs, to design and implementation of a passive vibration isolation system to reduce noise from pulse-tube cryocooler vibrations
@@ -52,7 +53,7 @@ University of California, Berkeley, Department of Physics
 
 ### Teaching, Mentoring, and Outreach
 
-2021 - Present, *University of California, Berkeley*, Department of Physics 
+2021 - 2022, *University of California, Berkeley*, Department of Physics 
  - Mentored undergraduate Deborah Lin as part of lab project
  - Design and implementation of a passive vibration isolation system for a cryogen-free dilution refrigerator
 
@@ -88,6 +89,8 @@ University of California, Berkeley, Department of Physics
 
 #### Other Publications
 
+ - J. S. Wilson _et al._, "The level-1 trigger for the SuperCDMS experiment at SNOLAB", [J. Instrum. 17, P07010 (2022)](https://doi.org/10.1088/1748-0221/17/07/P07010)
+ - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Investigating the sources of low-energy events in a SuperCDMS-HVeV detector", [Phys. Rev. D 105, 112006 (2022)](https://doi.org/10.1103/PhysRevD.105.112006)
  - A. Biekert _et al._ (SPICE/HeRALD Collaboration), "A backing detector for order-keV neutrons", [Nucl. Instrum. Methods Phys. Res. A 1039, 166981 (2022)](https://doi.org/10.1016/j.nima.2022.166981)
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Ionization yield measurement in a germanium CDMSlite detector using photo-neutron sources", [Phys. Rev. D 105, 122002 (2022)](https://doi.org/10.1103/PhysRevD.105.122002)
  - A. Biekert _et al._ (SPICE/HeRALD Collaboration), "Scintillation yield from electronic and nuclear recoils in superfluid He-4", [Phys. Rev. D 105, 092005 (2022)](https://doi.org/10.1103/PhysRevD.105.092005)
@@ -102,8 +105,6 @@ University of California, Berkeley, Department of Physics
 #### Preprints
 
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Effective Field Theory Analysis of CDMSlite Run 2 Data" (2022), [arXiv:2205.11683](https://arxiv.org/abs/2205.11683) [astro-ph.CO]
- - J. S. Wilson _et al._, "The level-1 trigger for the SuperCDMS experiment at SNOLAB" (2022), [arXiv:2204.13002](https://arxiv.org/abs/2204.13002) [physics.ins-det]
- - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Investigating the sources of low-energy events in a SuperCDMS-HVeV detector" (2022), [arXiv:2204.08038](https://arxiv.org/abs/2204.08038) [hep-ex]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "A Strategy for Low-Mass Dark Matter Searches with Cryogenic Detectors in the SuperCDMS SNOLAB Facility" (2022), [arXiv:2203.08463](https://arxiv.org/abs/2203.08463) [physics.ins-det]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "A Search for Low-mass Dark Matter via Bremsstrahlung Radiation and the Migdal Effect in SuperCDMS" (2022), [arXiv:2203.02594](https://arxiv.org/abs/2203.02594) [hep-ex]
  - P. Adari _et al._, "EXCESS workshop: Descriptions of rising low-energy spectra" (2022), [arXiv:2202.05097](https://arxiv.org/abs/2202.05097) [astro-ph.IM]
