@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I am a PhD candidate in the physics department at UC Berkeley. I am a member of the [Pyle Group](https://sites.google.com/berkeley.edu/pylegroup) and help our group in the goal to detect dark matter (DM). I am also a member of the SuperCDMS and SPICE/HeRALD dark matter detection collaborations.
+I am currently a postdoc at Los Alamos National Laboratory, working as a member of the SPLENDOR Collaboration We are searching for light dark matter with narrow-gap semiconductors.
+
+I completed my PhD in the physics department at UC Berkeley as a member of the [Pyle Group](https://sites.google.com/berkeley.edu/pylegroup) where I helped our group in the goal to detect dark matter (DM). I am also a member of the SuperCDMS and SPICE/HeRALD dark matter detection collaborations.
 
 Throughout the course of my PhD at Berkeley, I have had a hand in many different aspects of our lab. I was the lead analyzer and corresponding author of the SuperCDMS-CPD DM search, which was subsequently published in Physical Review Letters as ["Light Dark Matter Search with a High-Resolution Athermal Phonon Detector Operated above Ground."](https://doi.org/10.1103/PhysRevLett.127.061801) In this analysis, I took raw DM search data and wrote Python code for feature extraction, event simulation, and exclusion limit setting. Most of these tools have been included in the open-source Python packages [QETpy](https://github.com/spice-herald/QETpy) and [`detprocess`](https://github.com/spice-herald/detprocess), and [DarkLim](https://github.com/spice-herald/DarkLim), for each of which I am a creator and maintainer.
 
