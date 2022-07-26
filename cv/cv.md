@@ -85,6 +85,7 @@ University of California, Berkeley, Department of Physics
 
 #### Significant Contributions
 
+ - J. S. Wilson _et al._, "The level-1 trigger for the SuperCDMS experiment at SNOLAB", [J. Instrum. 17, P07010 (2022)](https://doi.org/10.1088/1748-0221/17/07/P07010)
  - R. Ren, C. Bathurst, Y.-Y. Chang, R. Chen, C. W. Fink, Z. Hong, N. A. Kurinsky, N. Mast, N. Mishra, V. Novati, G. Spahn, H. Meyer zu Theenhausen, **S. L. Watkins**, _et al._, "Design and characterization of a phonon-mediated cryogenic particle detector with an eV-scale threshold and 100 keV-scale dynamic range", [Phys. Rev. D 104, 032010 (2021)](https://doi.org/10.1103/PhysRevD.104.032010)
  - C. W. Fink, **S. L. Watkins**, _et al._, "Characterizing TES power noise for future single optical-phonon and infrared-photon detectors", [AIP Adv. 10, 085221 (2020)](https://doi.org/10.1063/5.0011130)
  - F. Ponce, W. Page, P. L. Brink, B. Cabrera, M. Cherry, C. Fink, N. Kurinsky, R. Partridge, M. Pyle, B. Sadoulet, B. Serfass, C. Stanford, **S. L. Watkins**, _et al._, "Modeling of Impact Ionization and Charge Trapping in SuperCDMS HVeV Detectors",  [J. Low Temp. Phys. 199, 598–605 (2020)](https://doi.org/10.1007/s10909-020-02349-x)
@@ -92,7 +93,6 @@ University of California, Berkeley, Department of Physics
 
 #### Other Publications
 
- - J. S. Wilson _et al._, "The level-1 trigger for the SuperCDMS experiment at SNOLAB", [J. Instrum. 17, P07010 (2022)](https://doi.org/10.1088/1748-0221/17/07/P07010)
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Investigating the sources of low-energy events in a SuperCDMS-HVeV detector", [Phys. Rev. D 105, 112006 (2022)](https://doi.org/10.1103/PhysRevD.105.112006)
  - A. Biekert _et al._ (SPICE/HeRALD Collaboration), "A backing detector for order-keV neutrons", [Nucl. Instrum. Methods Phys. Res. A 1039, 166981 (2022)](https://doi.org/10.1016/j.nima.2022.166981)
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Ionization yield measurement in a germanium CDMSlite detector using photo-neutron sources", [Phys. Rev. D 105, 122002 (2022)](https://doi.org/10.1103/PhysRevD.105.122002)
