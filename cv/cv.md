@@ -11,7 +11,7 @@ University of California, Berkeley, Department of Physics
 ### Education
 
 2016 - 2022, *University of California, Berkeley*
- - Ph.D. Candidate - Department of Physics
+ - Ph.D. - Department of Physics
  - Thesis: [Athermal Phonon Sensors in Searches for Light Dark Matter](https://slwatkins.com/cv/watkins_thesis.pdf)
  
 2016 - 2018, *University of California, Berkeley*
@@ -22,6 +22,9 @@ University of California, Berkeley, Department of Physics
  - Minor in Applied Mathematics
 
 ### Research and Work Experience
+
+2022 - Present, *Los Alamos National Laboratory*, P-1 Division
+ - Postdoc for the SPLENDOR Collaboration, co-mentored by Ralph Massarczyk and Daniele Spier Moreira Alves
 
 2017 - 2022, *University of California, Berkeley*, Department of Physics
  - Graduate Student Researcher under Assistant Professor Matt C. Pyle
