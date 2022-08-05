@@ -107,6 +107,7 @@ University of California, Berkeley, Department of Physics
 
 #### Preprints
 
+ - R. Anthony-Petersen _et al._, "A Stress Induced Source of Phonon Bursts and Quasiparticle Poisoning" (2022), [arXiv:2208.02790](https://arxiv.org/abs/2208.02790) [physics.ins-det]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Effective Field Theory Analysis of CDMSlite Run 2 Data" (2022), [arXiv:2205.11683](https://arxiv.org/abs/2205.11683) [astro-ph.CO]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "A Strategy for Low-Mass Dark Matter Searches with Cryogenic Detectors in the SuperCDMS SNOLAB Facility" (2022), [arXiv:2203.08463](https://arxiv.org/abs/2203.08463) [physics.ins-det]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "A Search for Low-mass Dark Matter via Bremsstrahlung Radiation and the Migdal Effect in SuperCDMS" (2022), [arXiv:2203.02594](https://arxiv.org/abs/2203.02594) [hep-ex]
