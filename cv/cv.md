@@ -85,7 +85,7 @@ University of California, Berkeley, Department of Physics
 
 #### Significant Contributions
 
- - P. Adari _et al._, "EXCESS workshop: Descriptions of rising low-energy spectra" [SciPost Phys. Proc. 9, 001 (2022)](https://doi.org/10.21468/SciPostPhysProc.9.001)
+ - P. Adari _et al._, "EXCESS workshop: Descriptions of rising low-energy spectra", [SciPost Phys. Proc. 9, 001 (2022)](https://doi.org/10.21468/SciPostPhysProc.9.001)
  - J. S. Wilson _et al._, "The level-1 trigger for the SuperCDMS experiment at SNOLAB", [J. Instrum. 17, P07010 (2022)](https://doi.org/10.1088/1748-0221/17/07/P07010)
  - R. Ren _et al._, "Design and characterization of a phonon-mediated cryogenic particle detector with an eV-scale threshold and 100 keV-scale dynamic range", [Phys. Rev. D 104, 032010 (2021)](https://doi.org/10.1103/PhysRevD.104.032010)
  - C. W. Fink, **S. L. Watkins** _et al._, "Characterizing TES power noise for future single optical-phonon and infrared-photon detectors", [AIP Adv. 10, 085221 (2020)](https://doi.org/10.1063/5.0011130)
