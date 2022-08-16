@@ -85,11 +85,12 @@ University of California, Berkeley, Department of Physics
 
 #### Significant Contributions
 
+ - P. Adari _et al._, "EXCESS workshop: Descriptions of rising low-energy spectra" [SciPost Phys. Proc. 9, 001 (2022)](https://doi.org/10.21468/SciPostPhysProc.9.001)
  - J. S. Wilson _et al._, "The level-1 trigger for the SuperCDMS experiment at SNOLAB", [J. Instrum. 17, P07010 (2022)](https://doi.org/10.1088/1748-0221/17/07/P07010)
- - R. Ren, C. Bathurst, Y.-Y. Chang, R. Chen, C. W. Fink, Z. Hong, N. A. Kurinsky, N. Mast, N. Mishra, V. Novati, G. Spahn, H. Meyer zu Theenhausen, **S. L. Watkins**, _et al._, "Design and characterization of a phonon-mediated cryogenic particle detector with an eV-scale threshold and 100 keV-scale dynamic range", [Phys. Rev. D 104, 032010 (2021)](https://doi.org/10.1103/PhysRevD.104.032010)
- - C. W. Fink, **S. L. Watkins**, _et al._, "Characterizing TES power noise for future single optical-phonon and infrared-photon detectors", [AIP Adv. 10, 085221 (2020)](https://doi.org/10.1063/5.0011130)
- - F. Ponce, W. Page, P. L. Brink, B. Cabrera, M. Cherry, C. Fink, N. Kurinsky, R. Partridge, M. Pyle, B. Sadoulet, B. Serfass, C. Stanford, **S. L. Watkins**, _et al._, "Modeling of Impact Ionization and Charge Trapping in SuperCDMS HVeV Detectors",  [J. Low Temp. Phys. 199, 598–605 (2020)](https://doi.org/10.1007/s10909-020-02349-x)
- - F. Ponce, C. Stanford, S. Yellin, W. Page, C. Fink, M. Pyle, B. Sadoulet, B. Serfass, **S. L. Watkins**, _et al._, "Measuring the impact ionization and charge trapping probabilities in SuperCDMS HVeV phonon sensing detectors", [Phys. Rev. D 101, 031101(R) (2020)](https://doi.org/10.1103/PhysRevD.101.031101)
+ - R. Ren _et al._, "Design and characterization of a phonon-mediated cryogenic particle detector with an eV-scale threshold and 100 keV-scale dynamic range", [Phys. Rev. D 104, 032010 (2021)](https://doi.org/10.1103/PhysRevD.104.032010)
+ - C. W. Fink, **S. L. Watkins** _et al._, "Characterizing TES power noise for future single optical-phonon and infrared-photon detectors", [AIP Adv. 10, 085221 (2020)](https://doi.org/10.1063/5.0011130)
+ - F. Ponce _et al._, "Modeling of Impact Ionization and Charge Trapping in SuperCDMS HVeV Detectors",  [J. Low Temp. Phys. 199, 598–605 (2020)](https://doi.org/10.1007/s10909-020-02349-x)
+ - F. Ponce _et al._, "Measuring the impact ionization and charge trapping probabilities in SuperCDMS HVeV phonon sensing detectors", [Phys. Rev. D 101, 031101(R) (2020)](https://doi.org/10.1103/PhysRevD.101.031101)
 
 #### Other Publications
 
@@ -111,4 +112,3 @@ University of California, Berkeley, Department of Physics
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Effective Field Theory Analysis of CDMSlite Run 2 Data" (2022), [arXiv:2205.11683](https://arxiv.org/abs/2205.11683) [astro-ph.CO]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "A Strategy for Low-Mass Dark Matter Searches with Cryogenic Detectors in the SuperCDMS SNOLAB Facility" (2022), [arXiv:2203.08463](https://arxiv.org/abs/2203.08463) [physics.ins-det]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "A Search for Low-mass Dark Matter via Bremsstrahlung Radiation and the Migdal Effect in SuperCDMS" (2022), [arXiv:2203.02594](https://arxiv.org/abs/2203.02594) [hep-ex]
- - P. Adari _et al._, "EXCESS workshop: Descriptions of rising low-energy spectra" (2022), [arXiv:2202.05097](https://arxiv.org/abs/2202.05097) [astro-ph.IM]
