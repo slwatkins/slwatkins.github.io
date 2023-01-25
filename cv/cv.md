@@ -13,6 +13,7 @@ University of California, Berkeley, Department of Physics
 2016 - 2022, *University of California, Berkeley*
  - Ph.D. - Department of Physics
  - Thesis: [Athermal Phonon Sensors in Searches for Light Dark Matter](https://slwatkins.com/cv/watkins_thesis.pdf)
+   - Alternative link: [arXiv:2301.08699 [hep-ex]](https://arxiv.org/abs/2301.08699)
  
 2016 - 2018, *University of California, Berkeley*
  - M.A. - Department of Physics
@@ -24,7 +25,13 @@ University of California, Berkeley, Department of Physics
 ### Research and Work Experience
 
 2022 - Present, *Los Alamos National Laboratory*, P-1 Division
- - Postdoc for the SPLENDOR Collaboration, co-mentored by Ralph Massarczyk and Daniele Spier Moreira Alves
+ - Co-mentored by Ralph Massarczyk (P-1) and Steve Elliott (P-1)
+ - Member of the SPLENDOR dark matter collaboration and the LEGEND neutrinoless double beta decay collaboration
+ - Developing Python package for interfacing with data acquisition system for online and offline threshold and random triggering for SPLENDOR light dark matter search, as well as preparing the analysis pipeline of this data for the eventual dark matter search
+ - Contributing to the Python codebase development for the LEGEND experiment, optimizing for analysis of large datasets on high-performance computers
+ - Studying beyond-standard-model physics applications and sensitivity of the future LEGEND-1000 experiment, contributing to collaboration white paper as part of editorial team
+ - Setting up a local Linux cluster at P-1 for use with Geant4 simulations and analysis of large datasets
+ - Working with NEN-1 on extraction of event energies of high activity datasets, with the goal of understanding absolute activities of samples
 
 2017 - 2022, *University of California, Berkeley*, Department of Physics
  - Graduate Student Researcher under Assistant Professor Matt C. Pyle
