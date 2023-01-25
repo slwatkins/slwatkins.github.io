@@ -96,6 +96,7 @@ University of California, Berkeley, Department of Physics
 
 #### Significant Contributions
 
+- F. Ponce et al., "Observation of Long-Lived UV-Induced Fluorescence from Environmental Materials Using the HVeV Detector as Developed for SuperCDMS", [J. Low Temp. Phys. 209, 1172-1179 (2022)](https://doi.org/10.1007/s10909-022-02802-z)
  - P. Adari _et al._, "EXCESS workshop: Descriptions of rising low-energy spectra", [SciPost Phys. Proc. 9, 001 (2022)](https://doi.org/10.21468/SciPostPhysProc.9.001)
  - J. S. Wilson _et al._, "The level-1 trigger for the SuperCDMS experiment at SNOLAB", [J. Instrum. 17, P07010 (2022)](https://doi.org/10.1088/1748-0221/17/07/P07010)
  - R. Ren _et al._, "Design and characterization of a phonon-mediated cryogenic particle detector with an eV-scale threshold and 100 keV-scale dynamic range", [Phys. Rev. D 104, 032010 (2021)](https://doi.org/10.1103/PhysRevD.104.032010)
