@@ -25,6 +25,7 @@ University of California, Berkeley, Department of Physics
 ### Research and Work Experience
 
 2022 - Present, *Los Alamos National Laboratory*, P-1 Division
+ - Director's Postdoctoral Fellow
  - Co-mentored by Ralph Massarczyk (P-1) and Steve Elliott (P-1)
  - Member of the SPLENDOR dark matter collaboration and the LEGEND neutrinoless double beta decay collaboration
  - Developing Python package for interfacing with data acquisition system for online and offline threshold and random triggering for SPLENDOR light dark matter search, as well as preparing the analysis pipeline of this data for the eventual dark matter search
