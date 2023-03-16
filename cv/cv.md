@@ -121,6 +121,7 @@ University of California, Berkeley, Department of Physics
 
 #### Preprints
 
+ - M. F. Albakry _et al._ (SuperCDMS Collaboration), "First measurement of the nuclear-recoil ionization yield in silicon at 100 eV" (2023), [arXiv:2303.02196](https://arxiv.org/abs/2303.02196) [physics.ins-det]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "A Search for Low-mass Dark Matter via Bremsstrahlung Radiation and the Migdal Effect in SuperCDMS" (2023), [arXiv:2302.09115](https://arxiv.org/abs/2302.09115) [hep-ex]
  - A. Biekert _et al._, "A portable and high intensity 24 keV neutron source based on 124Sb-9Be photoneutrons and an iron filter" (2023), [arXiv:2302.03869](https://arxiv.org/abs/2302.03869) [physics.ins-det]
  - C. Adams _et al._, "Neutrinoless Double Beta Decay" (2022), [arXiv:2212.11099](https://arxiv.org/abs/2212.11099) [nucl-ex]
