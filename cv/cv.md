@@ -119,9 +119,10 @@ University of California, Berkeley, Department of Physics
  - R. Agnese _et al._ (SuperCDMS Collaboration), "Energy Loss Due to Defect Formation from Pb-206 Recoils in SuperCDMS Germanium Detectors", [Appl. Phys. Lett. 113, 092101 (2018)](https://doi.org/10.1063/1.5041457)
  - R. Agnese _et al._ (SuperCDMS Collaboration), "First Dark Matter Constraints from a SuperCDMS Single-Charge Sensitive Detector", [Phys. Rev. Lett. 121, 051301 (2018)](https://doi.org/10.1103/PhysRevLett.121.051301)
 
-#### Preprints
+#### Preprints and White Papers
 
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "First measurement of the nuclear-recoil ionization yield in silicon at 100 eV" (2023), [arXiv:2303.02196](https://arxiv.org/abs/2303.02196) [physics.ins-det]
+ - D. Beck _et al._, "Quantum Information Science and Technology for Nuclear Physics. Input into U.S. Long-Range Planning, 2023" (2023), [arXiv:2303.00113](https://arxiv.org/abs/2303.00113) [nucl-ex]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "A Search for Low-mass Dark Matter via Bremsstrahlung Radiation and the Migdal Effect in SuperCDMS" (2023), [arXiv:2302.09115](https://arxiv.org/abs/2302.09115) [hep-ex]
  - A. Biekert _et al._, "A portable and high intensity 24 keV neutron source based on 124Sb-9Be photoneutrons and an iron filter" (2023), [arXiv:2302.03869](https://arxiv.org/abs/2302.03869) [physics.ins-det]
  - C. Adams _et al._, "Neutrinoless Double Beta Decay" (2022), [arXiv:2212.11099](https://arxiv.org/abs/2212.11099) [nucl-ex]
