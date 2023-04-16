@@ -58,19 +58,19 @@ University of California, Berkeley, Department of Physics
  - April 15, 2023, [APS April Meeting 2023](https://meetings.aps.org/Meeting/APR23/Session/B12.9), Minneapolis, MN
 
 **Contributed Poster**: *Searching for Light Dark Matter with Narrow-gap Semiconductors - the SPLENDOR Experiment*
- - March 29, 2022, [UCLA Dark Matter 2023](https://indico.cern.ch/event/1188759/), Los Angeles, CA
+ - March 29, 2022, [UCLA Dark Matter 2023](https://indico.cern.ch/event/1188759/contributions/5258739/), Los Angeles, CA
 
 **Contributed Talk**: *A Generic Data Acquisition System for Multidisciplinary Detector R&D*
- - November 30, 2022, [CPAD Workshop 2022](https://indico.bnl.gov/event/17072/), Stony Brook, NY
+ - November 30, 2022, [CPAD Workshop 2022](https://indico.bnl.gov/event/17072/contributions/70164/), Stony Brook, NY
 
 **Invited Talk**: *CPD DM Search and Excess Signals*
- - June 15, 2021, [EXCESS Workshop](https://indico.cern.ch/event/1013203/), Virtual
+ - June 15, 2021, [EXCESS Workshop](https://indico.cern.ch/event/1013203/contributions/4364408/), Virtual
 
 **Invited Seminar**: *A Large-Area Cryogenic PhotoDetector, Applications, and a Light Dark Matter Search*
  - October 08, 2020, [Light Dark Matter Seminar](https://indico.cern.ch/event/956242/), UT Wien, Virtual
  
 **Contributed Talk**: *R&D for Light Mass Dark Matter Searches with SuperCDMS*
- - July 22, 2019, [18th International Workshop on Low Temperature Detectors](https://www.ltd18.unimib.it/), Milano, Italia
+ - July 22, 2019, [18th International Workshop on Low Temperature Detectors](https://agenda.infn.it/event/15448/contributions/95785/), Milano, Italia
 
 ### Teaching, Mentoring, and Outreach
 
