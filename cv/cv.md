@@ -50,25 +50,27 @@ University of California, Berkeley, Department of Physics
 
 ### Talks and Posters
 
+
+**Contributed Talk**: *Searching for Beyond-Standard-Model Physics with LEGEND-1000*
+ - April 15, 2023, [APS April Meeting 2023](https://meetings.aps.org/Meeting/APR23/Session/D15.9), Minneapolis, MN
+
+**Contributed Talk**: *Search for Dark Matter induced 180Ta decay in MAJORANA*
+ - April 15, 2023, [APS April Meeting 2023](https://meetings.aps.org/Meeting/APR23/Session/B12.9), Minneapolis, MN
+
 **Contributed Poster**: *Searching for Light Dark Matter with Narrow-gap Semiconductors - the SPLENDOR Experiment*
  - March 29, 2022, [UCLA Dark Matter 2023](https://indico.cern.ch/event/1188759/), Los Angeles, CA
- - Samuel L. Watkins
 
 **Contributed Talk**: *A Generic Data Acquisition System for Multidisciplinary Detector R&D*
  - November 30, 2022, [CPAD Workshop 2022](https://indico.bnl.gov/event/17072/), Stony Brook, NY
- - Samuel L. Watkins, co-authors: Caleb W. Fink, Noah A. Kurinsky, Ralph Massarczyk
 
 **Invited Talk**: *CPD DM Search and Excess Signals*
  - June 15, 2021, [EXCESS Workshop](https://indico.cern.ch/event/1013203/), Virtual
- - Samuel L. Watkins
 
 **Invited Seminar**: *A Large-Area Cryogenic PhotoDetector, Applications, and a Light Dark Matter Search*
  - October 08, 2020, [Light Dark Matter Seminar](https://indico.cern.ch/event/956242/), UT Wien, Virtual
- - Samuel L. Watkins
  
 **Contributed Talk**: *R&D for Light Mass Dark Matter Searches with SuperCDMS*
  - July 22, 2019, [18th International Workshop on Low Temperature Detectors](https://www.ltd18.unimib.it/), Milano, Italia
- - Samuel L. Watkins
 
 ### Teaching, Mentoring, and Outreach
 
