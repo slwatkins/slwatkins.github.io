@@ -60,7 +60,7 @@ University of California, Berkeley, Department of Physics
  - April 15, 2023, [APS April Meeting 2023](https://meetings.aps.org/Meeting/APR23/Session/B12.9), Minneapolis, MN, USA
 
 **Contributed Poster**: *Searching for Light Dark Matter with Narrow-gap Semiconductors - the SPLENDOR Experiment*
- - March 29, 2022, [UCLA Dark Matter 2023](https://indico.cern.ch/event/1188759/contributions/5258739/), Los Angeles, CA, USA
+ - March 29, 2023, [UCLA Dark Matter 2023](https://indico.cern.ch/event/1188759/contributions/5258739/), Los Angeles, CA, USA
 
 **Contributed Talk**: *A Generic Data Acquisition System for Multidisciplinary Detector R&D*
  - November 30, 2022, [CPAD Workshop 2022](https://indico.bnl.gov/event/17072/contributions/70164/), Stony Brook, NY, USA
