@@ -129,6 +129,7 @@ University of California, Berkeley, Department of Physics
 
 #### Preprints and White Papers
 
+- I. J. Arnquist _et al._ (MAJORANA Collaboration), "Constraints on the decay of <sup>180m</sup>Ta" (2023), [arXiv:2306.01965](https://arxiv.org/abs/2306.01965) [nucl-ex]
 - B. Acharya _et al._, "Fundamental Symmetries, Neutrons, and Neutrinos (FSNN): Whitepaper for the 2023 NSAC Long Range Plan" (2023), [arXiv:2304.03451](https://arxiv.org/abs/2304.03451) [nucl-ex]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "First measurement of the nuclear-recoil ionization yield in silicon at 100 eV" (2023), [arXiv:2303.02196](https://arxiv.org/abs/2303.02196) [physics.ins-det]
  - D. Beck _et al._, "Quantum Information Science and Technology for Nuclear Physics. Input into U.S. Long-Range Planning, 2023" (2023), [arXiv:2303.00113](https://arxiv.org/abs/2303.00113) [nucl-ex]
