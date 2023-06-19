@@ -5,8 +5,8 @@ permalink: /cv/
 ---
 
 ## Samuel L. Watkins
-University of California, Berkeley, Department of Physics  
-[samwatkins@berkeley.edu](mailto:samwatkins@berkeley.edu)
+Director's Postdoctoral Fellow  
+Los Alamos National Laboratory, P-1 Division
 
 ### Education
 
