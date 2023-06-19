@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am currently a postdoc at Los Alamos National Laboratory, working as a member of the SPLENDOR Collaboration We are searching for light dark matter with narrow-gap semiconductors.
+I am currently a postdoc at Los Alamos National Laboratory, working as a member of the LEGEND and SPLENDOR collaborations. In LEGEND, I lead the Beyond-Standard-Model physics search working group, where we are searching for new physics beyond neutrinoless double beta decay. In SPLENDOR, I aid in the search for light dark matter with narrow-gap semiconductors, where I lead the data acquisition efforts and the analysis pipeline.
 
 I completed my PhD in the physics department at UC Berkeley as a member of the [Pyle Group](https://sites.google.com/berkeley.edu/pylegroup) where I helped our group in the goal to detect dark matter (DM). I am also a member of the SuperCDMS and SPICE/HeRALD dark matter detection collaborations.
 
