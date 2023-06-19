@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Samuel Watkins
-email: samwatkins@berkeley.edu
+email: sam@slwatkins.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Graduate Student Researcher at UC Berkeley | Physics PhD Candidate | Data Analyst | Detector R&D
+  Director's Postdoctoral Fellow | Data Analyst | Detector R&D
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  slwatkins
