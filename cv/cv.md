@@ -118,6 +118,7 @@ Los Alamos National Laboratory, P-1 Division
 
 #### Other Publications
 
+ - A. Biekert _et al._, "A portable and high intensity 24 keV neutron source based on <sup>124</sup>Sb-<sup>9</sup>Be photoneutrons and an iron filter" (2023), [J. Instrum. 18, P07018 (2023)](https://doi.org/10.1088/1748-0221/18/07/P07018)
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "A Search for Low-mass Dark Matter via Bremsstrahlung Radiation and the Migdal Effect in SuperCDMS", [Phys. Rev. D 107, 112013 (2023)](https://doi.org/10.1103/PhysRevD.107.112013)
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Investigating the sources of low-energy events in a SuperCDMS-HVeV detector", [Phys. Rev. D 105, 112006 (2022)](https://doi.org/10.1103/PhysRevD.105.112006)
  - A. Biekert _et al._ (SPICE/HeRALD Collaboration), "A backing detector for order-keV neutrons", [Nucl. Instrum. Methods Phys. Res. A 1039, 166981 (2022)](https://doi.org/10.1016/j.nima.2022.166981)
@@ -138,7 +139,6 @@ Los Alamos National Laboratory, P-1 Division
 - B. Acharya _et al._, "Fundamental Symmetries, Neutrons, and Neutrinos (FSNN): Whitepaper for the 2023 NSAC Long Range Plan" (2023), [arXiv:2304.03451](https://arxiv.org/abs/2304.03451) [nucl-ex]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "First measurement of the nuclear-recoil ionization yield in silicon at 100 eV" (2023), [arXiv:2303.02196](https://arxiv.org/abs/2303.02196) [physics.ins-det]
  - D. Beck _et al._, "Quantum Information Science and Technology for Nuclear Physics. Input into U.S. Long-Range Planning, 2023" (2023), [arXiv:2303.00113](https://arxiv.org/abs/2303.00113) [nucl-ex]
- - A. Biekert _et al._, "A portable and high intensity 24 keV neutron source based on 124Sb-9Be photoneutrons and an iron filter" (2023), [arXiv:2302.03869](https://arxiv.org/abs/2302.03869) [physics.ins-det]
  - C. Adams _et al._, "Neutrinoless Double Beta Decay" (2022), [arXiv:2212.11099](https://arxiv.org/abs/2212.11099) [nucl-ex]
  - R. Anthony-Petersen _et al._, "A Stress Induced Source of Phonon Bursts and Quasiparticle Poisoning" (2022), [arXiv:2208.02790](https://arxiv.org/abs/2208.02790) [physics.ins-det]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Effective Field Theory Analysis of CDMSlite Run 2 Data" (2022), [arXiv:2205.11683](https://arxiv.org/abs/2205.11683) [astro-ph.CO]
