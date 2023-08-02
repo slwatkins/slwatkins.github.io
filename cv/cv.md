@@ -50,6 +50,9 @@ Los Alamos National Laboratory, P-1 Division
 
 ### Talks and Posters
 
+**Contributed Poster**: *A Detector-Agnostic Data Acquisition System for Small-Scale Physics Experiments*
+ - July 27, 2023, [20th International Conference on Low Temperature Detectors](http://ltd20.org/program.php), Daejeon, KR
+
 **Invited Talk**: *Supernova Neutrino Detection with LEGEND*
  - June 01, 2023, [SNvD 2023@LNGS](https://agenda.infn.it/event/27159/timetable/#71-legend-sensitivity), L'Aquila, IT
 
@@ -130,6 +133,7 @@ Los Alamos National Laboratory, P-1 Division
 
 #### Preprints and White Papers
 
+- R. Anthony-Petersen _et al._ (SPICE/HeRALD Collaboration), "Applying Superfluid Helium to Light Dark Matter Searches: Demonstration of the HeRALD Detector Concept" (2023), [arXiv:2307.11877](https://arxiv.org/abs/2307.11877) [physics.ins-det]
 - I. J. Arnquist _et al._ (MAJORANA Collaboration), "Constraints on the decay of <sup>180m</sup>Ta" (2023), [arXiv:2306.01965](https://arxiv.org/abs/2306.01965) [nucl-ex]
 - B. Acharya _et al._, "Fundamental Symmetries, Neutrons, and Neutrinos (FSNN): Whitepaper for the 2023 NSAC Long Range Plan" (2023), [arXiv:2304.03451](https://arxiv.org/abs/2304.03451) [nucl-ex]
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "First measurement of the nuclear-recoil ionization yield in silicon at 100 eV" (2023), [arXiv:2303.02196](https://arxiv.org/abs/2303.02196) [physics.ins-det]
