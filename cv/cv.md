@@ -134,6 +134,7 @@ Los Alamos National Laboratory, P-1 Division
 
 #### Preprints and White Papers
 
+- I. J. Arnquist _et al._ (MAJORANA Collaboration), "Majorana Demonstrator Data Release for AI/ML Applications" (2023), [arXiv:2308.10856](https://arxiv.org/abs/2308.10856) [cs.LG]
 - R. Anthony-Petersen _et al._ (SPICE/HeRALD Collaboration), "Applying Superfluid Helium to Light Dark Matter Searches: Demonstration of the HeRALD Detector Concept" (2023), [arXiv:2307.11877](https://arxiv.org/abs/2307.11877) [physics.ins-det]
 - I. J. Arnquist _et al._ (MAJORANA Collaboration), "Constraints on the decay of <sup>180m</sup>Ta" (2023), [arXiv:2306.01965](https://arxiv.org/abs/2306.01965) [nucl-ex]
 - B. Acharya _et al._, "Fundamental Symmetries, Neutrons, and Neutrinos (FSNN): Whitepaper for the 2023 NSAC Long Range Plan" (2023), [arXiv:2304.03451](https://arxiv.org/abs/2304.03451) [nucl-ex]
