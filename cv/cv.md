@@ -50,6 +50,9 @@ Los Alamos National Laboratory, P-1 Division
 
 ### Talks and Posters
 
+**Contributed Talk**: *Searching for Light Dark Matter with Narrow-gap Semiconductors*
+ - August 28, 2023, [TAUP 2023](https://indico.cern.ch/event/1199289/contributions/5449512/), Wien, AT
+
 **Contributed Poster**: *A Detector-Agnostic Data Acquisition System for Small-Scale Physics Experiments*
  - July 27, 2023, [20th International Conference on Low Temperature Detectors](http://ltd20.org/program.php), Daejeon, KR
 
