@@ -50,6 +50,9 @@ Los Alamos National Laboratory, P-1 Division
 
 ### Talks and Posters
 
+**Contributed Poster**: *Searching for Beyond-Standard-Model Physics with LEGEND-1000*
+ - August 28, 2023, [TAUP 2023](https://indico.cern.ch/event/1199289/contributions/5445857/), Wien, AT
+
 **Contributed Talk**: *Searching for Light Dark Matter with Narrow-gap Semiconductors*
  - August 28, 2023, [TAUP 2023](https://indico.cern.ch/event/1199289/contributions/5449512/), Wien, AT
 
