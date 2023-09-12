@@ -50,6 +50,9 @@ Los Alamos National Laboratory, P-1 Division
 
 ### Talks and Posters
 
+**Contributed Talk**: *The LEGEND Experiment for Neutrinoless Double Beta Decay*
+ - September 12, 2023, [TeVPA 2023](https://agenda.infn.it/event/33457/contributions/204770/), Napoli, IT
+
 **Contributed Poster**: *Searching for Beyond-Standard-Model Physics with LEGEND-1000*
  - August 28, 2023, [TAUP 2023](https://indico.cern.ch/event/1199289/contributions/5445857/), Wien, AT
 
