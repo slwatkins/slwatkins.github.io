@@ -144,6 +144,8 @@ Los Alamos National Laboratory, P-1 Division
 
 #### Preprints and White Papers
 
+- S. L. Watkins, "SPLENDAQ: A Detector-Agnostic Data Acquisition System for Small-Scale Physics Experiments" (2023), [arXiv:2310.01279](https://arxiv.org/abs/2310.01279) [physics.ins-det]
+- E. A. Peterson, S. L. Watkins, C. A. Lane, J.-X. Zhu, "Beyond-DFT _ab initio_ Calculations for Accurate Prediction of Sub-GeV Dark Matter Experimental Reach" (2023), [arXiv:2310.00147](https://arxiv.org/abs/2310.00147) [hep-ph]
 - I. J. Arnquist _et al._ (MAJORANA Collaboration), "Majorana Demonstrator Data Release for AI/ML Applications" (2023), [arXiv:2308.10856](https://arxiv.org/abs/2308.10856) [cs.LG]
 - R. Anthony-Petersen _et al._ (SPICE/HeRALD Collaboration), "Applying Superfluid Helium to Light Dark Matter Searches: Demonstration of the HeRALD Detector Concept" (2023), [arXiv:2307.11877](https://arxiv.org/abs/2307.11877) [physics.ins-det]
 - I. J. Arnquist _et al._ (MAJORANA Collaboration), "Constraints on the decay of <sup>180m</sup>Ta" (2023), [arXiv:2306.01965](https://arxiv.org/abs/2306.01965) [nucl-ex]
