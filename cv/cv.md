@@ -50,6 +50,9 @@ Los Alamos National Laboratory, P-1 Division
 
 ### Talks and Posters
 
+**Invited Talk**: *Mind the Gap: Light Dark Matter Detection with Narrow-Gap Semiconductors*
+ - October 27, 2023, [PCTS Workshop: Quantum Probes of Wave-like and Sub-GeV Dark Matter, from Photonics to Quantum Sensing](https://pcts.princeton.edu/events/2023/quantum-probes-wave-and-sub-gev-dark-matter-photonics-quantum-sensing), Princeton, NJ, USA
+
 **Contributed Talk**: *The LEGEND Experiment for Neutrinoless Double Beta Decay*
  - September 12, 2023, [TeVPA 2023](https://agenda.infn.it/event/33457/contributions/204770/), Napoli, IT
 
