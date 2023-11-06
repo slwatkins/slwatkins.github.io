@@ -50,6 +50,9 @@ Los Alamos National Laboratory, P-1 Division
 
 ### Talks and Posters
 
+**Contributed Poster**: *Overview and Status of the SPLENDOR Experiment*
+ - November 7, 2023, [CPAD Workshop 2023](https://indico.slac.stanford.edu/event/8288/contributions/7693/), Menlo Park, CA, USA
+
 **Invited Talk**: *Mind the Gap: Light Dark Matter Detection with Narrow-Gap Semiconductors*
  - October 27, 2023, [PCTS Workshop: Quantum Probes of Wave-like and Sub-GeV Dark Matter, from Photonics to Quantum Sensing](https://pcts.princeton.edu/events/2023/quantum-probes-wave-and-sub-gev-dark-matter-photonics-quantum-sensing), Princeton, NJ, USA
 
