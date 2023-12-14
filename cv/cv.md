@@ -50,6 +50,9 @@ Los Alamos National Laboratory, P-1 Division
 
 ### Talks and Posters
 
+**Contributed Talk**: *Searching for Beyond-Standard-Model Physics with LEGEND-1000*
+ - November 28, 2023, [APS DNP Meeting 2023](https://meetings.aps.org/Meeting/HAW23/Session/C12.8), Waikoloa, HI, USA
+
 **Contributed Poster**: *Overview and Status of the SPLENDOR Experiment*
  - November 7, 2023, [CPAD Workshop 2023](https://indico.slac.stanford.edu/event/8288/contributions/7693/), Menlo Park, CA, USA
 
