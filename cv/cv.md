@@ -120,12 +120,13 @@ Los Alamos National Laboratory, P-1 Division
 ### Publications
 
 #### Corresponding Author
-- S. L. Watkins, "SPLENDAQ: A Detector-Agnostic Data Acquisition System for Small-Scale Physics Experiments", [J. Low Temp. Phys. (2023)](https://doi.org/10.1007/s10909-023-03021-w)
+- S. L. Watkins, "SPLENDAQ: A Detector-Agnostic Data Acquisition System for Small-Scale Physics Experiments", [J. Low Temp. Phys. 214, 133 (2024)](https://doi.org/10.1007/s10909-023-03021-w)
  - I. Alkhatib, ..., **S. L. Watkins**, _et al._ (SuperCDMS Collaboration), "Light Dark Matter Search with a High-Resolution Athermal Phonon Detector Operated above Ground", [Phys. Rev. Lett. 127, 061801 (2021)](https://doi.org/10.1103/PhysRevLett.127.061801)
  - C. W. Fink, **S. L. Watkins**, _et al._ (CPD Collaboration), "Performance of a large area photon detector for rare event search applications", [Appl. Phys. Lett. 118, 022601 (2021)](https://doi.org/10.1063/5.0032372)
 
 #### Significant Contributions
 
+- J. Anczarski _et al._, "Two-Stage Cryogenic HEMT Based Amplifier For Low Temperature Detectors", [J. Low Temp. Phys. 214, 256 (2024)](https://doi.org/10.1007/s10909-023-03046-1)
 - F. Ponce et al., "Observation of Long-Lived UV-Induced Fluorescence from Environmental Materials Using the HVeV Detector as Developed for SuperCDMS", [J. Low Temp. Phys. 209, 1172-1179 (2022)](https://doi.org/10.1007/s10909-022-02802-z)
  - P. Adari _et al._, "EXCESS workshop: Descriptions of rising low-energy spectra", [SciPost Phys. Proc. 9, 001 (2022)](https://doi.org/10.21468/SciPostPhysProc.9.001)
  - J. S. Wilson _et al._, "The level-1 trigger for the SuperCDMS experiment at SNOLAB", [J. Instrum. 17, P07010 (2022)](https://doi.org/10.1088/1748-0221/17/07/P07010)
@@ -154,7 +155,6 @@ Los Alamos National Laboratory, P-1 Division
 
 #### Preprints and White Papers
 
-- J. Anczarski _et al._, "Two-Stage Cryogenic HEMT Based Amplifier For Low Temperature Detectors" (2023), [arXiv:2311.02229](https://arxiv.org/abs/2311.02229) [physics.ins-det]
 - E. A. Peterson, S. L. Watkins, C. Lane, J.-X. Zhu, "Beyond-DFT _ab initio_ Calculations for Accurate Prediction of Sub-GeV Dark Matter Experimental Reach" (2023), [arXiv:2310.00147](https://arxiv.org/abs/2310.00147) [hep-ph]
 - I. J. Arnquist _et al._ (MAJORANA Collaboration), "Majorana Demonstrator Data Release for AI/ML Applications" (2023), [arXiv:2308.10856](https://arxiv.org/abs/2308.10856) [cs.LG]
 - R. Anthony-Petersen _et al._ (SPICE/HeRALD Collaboration), "Applying Superfluid Helium to Light Dark Matter Searches: Demonstration of the HeRALD Detector Concept" (2023), [arXiv:2307.11877](https://arxiv.org/abs/2307.11877) [physics.ins-det]
